@@ -92,8 +92,8 @@ time-intensive manual deployment processes. And let’s face it, if you
 are releasing every sprint, your team doesn’t have time to do this
 manually.
 
-CICD also influences your software architecture. They ensure your
-delivers buildable and deployable software. When you implement a
+CICD also influences your software architecture. They ensure you
+deliver buildable and deployable software. When you implement a
 difficult-to-deploy feature, you become aware immediately as the build
 and deployments will fail. CICD forces you to fix deployment issues as
 they occur, ensuring your product is ever ready to ship.
