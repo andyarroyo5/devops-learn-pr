@@ -1,9 +1,9 @@
 {
   "docsets_to_publish": [
     {
-      "docset_name": "azure-devops",
+      "docset_name": "azure-devops-learn",
       "build_source_folder": "docs",
-      "build_output_subfolder": "azure-devops",
+      "build_output_subfolder": "azure-devops-learn",
       "locale": "en-us",
       "monikers": [],
       "moniker_ranges": [],
@@ -18,8 +18,7 @@
     }
   ],
   "notification_subscribers": [
-    "samgu@microsoft.com",
-    "douge@microsoft.com"
+    "samgu@microsoft.com"
   ],
   "branches_to_filter": [],
   "skip_source_output_uploading": false,
