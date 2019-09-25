@@ -11,9 +11,9 @@ ms.date: 3/11/2019
 
 # Azure Boards vs Jira Software
 
-Azure DevOps is a cloud-based, open, and integrated platform for enterprise-scale DevOps. Azure Boards is the specific Azure DevOps service focused on agile project management.
+Azure DevOps is a cloud-based, open, and integrated platform for enterprise-scale. Azure Boards is the specific Azure service focused on agile project management.
 
-To compare to Jira Software, try Azure Boards for free and get:
+Try [Azure Boards for free](https://azure.microsoft.com/services/devops/boards) and get:
 
 - Access for up to five users
 - Access for an unlimited number of stakeholders
@@ -21,8 +21,6 @@ To compare to Jira Software, try Azure Boards for free and get:
 - Access to other Azure DevOps services
   (e.g., [Azure Repos](https://azure.microsoft.com/services/devops/repos),
   [Azure Pipelines](https://azure.com/pipelines), etc.)
-
-[Sign-up here](https://azure.microsoft.com/services/devops/boards) and compare for yourself _for FREE_!
 
 ## Get the ease and consistency of an integrated system
 
@@ -45,6 +43,8 @@ you wish and easily integrate with other development tools across all popular de
 | Enterprise query support             |      Y       |       N       | Azure Boards supports cross project queries. Azure Boards queries can generate charts that can be put on dashboards.                                                                                                                                                                                                                                                             |
 | Reporting & Analytics                |      Y       |      \*       | Azure Boards supports both simple and complex reporting using dashboard widgets, queries, and Power BI reporting. Jira requires purchase of third-party solutions through its marketplace for enterprise analytics and reporting.                                                                                                                                                |
 | Dashboard support                    |      Y       |      Y\*      | Jira does not support the breadth of ALM/DevOps life cycle widgets (e.g., build, release, monitoring).                                                                                                                                                                                                                                                                           |
+| GitHub integration                   |      Y       |       Y       | [Azure Boards + GitHub](https://github.com/marketplace/azure-boards)                                                                                                                                                                                                                                                                                                             |
+| Enterprise Scale                     |      Y       |      Y\*      | Jira Cloud only supports up to 2000 users.                                                                                                                                                                                                                                                                                                                                       |
 | Extensibility & Marketplace          |      Y       |       Y       | Choose from a [library](https://marketplace.visualstudio.com/) of community supported extensions or [create your own](https://docs.microsoft.com/en-us/azure/devops/marketplace-extensibility/index?view=azure-devops).                                                                                                                                                          |
 
 <!--
@@ -123,11 +123,11 @@ user counts. Like Jira, you can ajust to any user count and are billed on a mont
 ## Easily migrate from Jira Software
 
 Migrate from Jira Software to Azure DevOps in just a few minutes.
-Export from Jira Software to Microsoft Excel and then use the free
-[Excel add-in](https://docs.microsoft.com/azure/devops/boards/backlogs/office/track-work)
-to import into Azure Boards.
+Export from Jira Software to Microsoft Excel and then use the free [Excel add-in](https://docs.microsoft.com/azure/devops/boards/backlogs/office/track-work) to import into Azure Boards.
 
-You can also use free community tools such as Solidify's
-[Jira to Azure DevOps work item migration tool](https://marketplace.visualstudio.com/items?itemName=solidify-labs.jira-devops-migration)
-or perform high-fidelity migrations and even _synchronization_ using partner tools such as
-[TFS4Jira](https://marketplace.visualstudio.com/items?itemName=vs-publisher-703379.TFS4JIRA).
+Other migration tools are:
+
+- [Jira to Azure DevOps work item migration tool](https://marketplace.visualstudio.com/items?itemName=solidify-labs.jira-devops-migration) by Solidify (free)
+- [TFS4Jira](https://marketplace.visualstudio.com/items?itemName=vs-publisher-703379.TFS4JIRA).
+- [TaskTop](https://www.tasktop.com/integrations/azure-devops)
+- [OpsHub](https://www.opshub.com/azure-devops-vsts-integration/azure-devops-vsts-jira-github-integration/)
