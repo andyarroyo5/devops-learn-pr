@@ -17,10 +17,10 @@ ms.date: 01/18/2018
 
 [Azure DevOps](https://azure.com/devops) services  provide enterprise-grade reliability, including a 99.9 percent SLA and 24×7 support, and new features every three weeks.  
 These services include:
-- [Azure Boards](https://azure.microsoft.com/services/devops/boards) for agile management and reporting (comparison coming soon)
+- [Azure Boards](https://azure.microsoft.com/services/devops/boards) for agile management and reporting
 - [Azure Repos](https://azure.microsoft.com/services/devops/repos) - [Compare](\#repos) with GitLab for source control
 - [Azure Pipelines](https://azure.com/pipelines) - [Compare](\#pipelines) with GitLab for automated build, test and deploy
-- [Azure Artifacts](https://azure.microsoft.com/services/devops/artifacts) for package management and binary reuse (comparison not yet available)
+- [Azure Artifacts](https://azure.microsoft.com/services/devops/artifacts) for package management and binary reuse
 - [Azure Test Plans](https://azure.microsoft.com/services/devops/test-plans) for manual test management and reporting (GitLab doesn't provide these capabilities)
 
 Azure DevOps services support any language, any platform, and **even any cloud**. They are
