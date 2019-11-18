@@ -54,7 +54,7 @@
       "MSHAttr.msprod": "ms.prod:devops",
       "ms.prodfamily": "ALM",
       "feedback_system": "GitHub",
-      "feedback_github_repo": "MicrosoftDocs/vsts-docs",
+      "feedback_github_repo": "MicrosoftDocs/devops-learn",
       "feedback_product_url": "https://developercommunity.visualstudio.com/spaces/21/index.html",
       "titleSuffix": "Azure DevOps",
       "_op_documentIdPathDepotMapping": {
