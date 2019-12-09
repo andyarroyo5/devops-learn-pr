@@ -13,7 +13,10 @@ ms.date: 01/04/2018
 
 > By: Sam Guckenheimer
 
-DevOps is the union of people, process, and products to enable continuous delivery of value to our end users. The contraction of “Dev” and “Ops” refers to replacing siloed Development and Operations to create multidisciplinary teams that now work together with shared and efficient practices and tools. Essential DevOps practices include agile planning, continuous integration, continuous delivery, and monitoring of applications.
+> DevOps is the union of people, process, and products to enable continuous delivery of value to our end users.
+[Donovan Brown](http://donovanbrown.com/post/what-is-devops)
+
+The contraction of “Dev” and “Ops” refers to replacing siloed Development and Operations to create multidisciplinary teams that now work together with shared and efficient practices and tools. Essential DevOps practices include agile planning, continuous integration, continuous delivery, and monitoring of applications.
 
 ![Image of DevOps cycle: Getting to DevOps](_img/devops-cycle.png)
 
