@@ -192,7 +192,7 @@ middle of a deployment, we may need to hotfix two different releases:
 the sprint 129 release _and_ the sprint 130 release.  In these cases,
 we'll port the hotfix to both release branches and deploy both release branches.
 The 130 branch will redeploy with the hotfix to the rings that have already
-been upgraded. The 129 branch will redeploy with the hotfix to the outter
+been upgraded. The 129 branch will redeploy with the hotfix to the outer
 rings that haven't been upgraded to next sprint's version yet.
 
 Once all the rings have been deployed, our old branch from sprint 129 is
