@@ -185,10 +185,15 @@ At this point, we'll actually have _two_ branches in production:  since we
 use a [ring-based deployment](https://msdn.microsoft.com/magazine/mt814804.aspx)
 to bring changes to production safely, our fast ring will get the sprint 130
 changes, while our slow ring servers will stay on sprint 129 while the new
-changes are validated in production.  (This raises an interesting problem:
-if we need to hotfix a change in the middle of a deployment, we may need to
-hotfix two different releases: the sprint 129 release _and_ the sprint 130
-release.)
+changes are validated in production.
+
+This raises an interesting problem, if we need to hotfix a change in the
+middle of a deployment, we may need to hotfix two different releases:
+the sprint 129 release _and_ the sprint 130 release.  In these cases,
+we'll port the hotfix to both release branches and deploy both release branches.
+The 130 branch will redeploy with the hotfix to the rings that have already
+been upgraded. The 129 branch will redeploy with the hotfix to the outer
+rings that haven't been upgraded to next sprint's version yet.
 
 Once all the rings have been deployed, our old branch from sprint 129 is
 completely abandoned.  We'll never need it again, since we were very
