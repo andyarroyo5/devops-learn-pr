@@ -114,7 +114,7 @@ If it hurts, do it more often. Just like going to the gym, adopting new practice
 
 
 
-Read more about the DevOps capabilities of [Azure Pipelines](https://azure.microsoft.com/en-us/services/devops/pipelines/).
+Read more about the DevOps capabilities of [Azure Pipelines](https://azure.microsoft.com/services/devops/pipelines/).
 
 |                                                         |                                                                                                                                                                                                                                                       |
 | ------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
